@@ -1,5 +1,5 @@
 <?php
-$host = '192.168.1.131';
+$host = 'X.X.X.X'; //ip
 $port = 12345;
 
 // Create a TCP socket
