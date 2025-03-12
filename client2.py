@@ -1,6 +1,6 @@
 import socket
 
-UDP_HOST = '192.168.22.90'  # Server address
+UDP_HOST = 'X.X.X.X'  # Server address
 UDP_PORT = 12346            # The UDP server port
 
 # Create a socket for the UDP client
